@@ -9,8 +9,6 @@ Using *King Lear* as a case study, we design a custom RAG pipeline to test how L
 Exploratory data analysis and evaluation notebook for RAG-based responses.
 
 ## Folder Structure
-
-# five-red-apples-rag
 - data/
   - kinglear.tsv
   - null-generate.tsv
