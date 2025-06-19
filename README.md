@@ -14,10 +14,9 @@ Exploratory data analysis and evaluation notebook for RAG-based responses.
   - null-generate.tsv
   - rag-retrieval.tsv
   - rag-generate.tsv
-- notebooks/
-  - rag_eda.ipynb
 - outputs/
   - rag-generate_with_accuracy.tsv
   - rag-generate_a_classified.tsv
   - combined_accuracy_evaluation.tsv
+- rag_eda.ipynb
 - README.md
