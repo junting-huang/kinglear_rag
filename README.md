@@ -4,13 +4,16 @@ This repository accompanies the research project by Junting Huang and Teddy Rola
 
 Using Shakespeare’s *King Lear* as a case study, we design a custom RAG system to simulate interpretive language games, testing how LLMs retrieve, contextualize, and cite textual evidence in response to factual, ambiguous, and counterfactual questions—without claiming definitive or absolute truth. This repository contains implementation notebooks, evaluation metrics, and experimental data, supporting our argument that RAG systems, like Wittgenstein’s and Cavell’s ordinary language philosophy, may resist skepticism not by eliminating uncertainty, but by grounding knowledge in practices of acknowledgment and response within interpretive communities.
 
-## Notebooks
+## Outputs (.tsv)
+OpenAI API generated data.
 
-Exploratory data analysis and evaluation notebook for RAG-based responses.
+## Notebooks (.ipynb)
 
-## Dataframes
+Exploratory data analysis with OpenAI API generated data.
 
-Manually sourced and human-rated experimental data for evaluating RAG-based interpretive responses to *King Lear*.
+## Dataframes (.xlsx)
+
+Manually sourced data.
 
 ## Folder Structure
 - data/
