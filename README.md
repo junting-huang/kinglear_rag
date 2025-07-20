@@ -27,4 +27,5 @@ Manually sourced data.
   - combined_accuracy_evaluation.tsv
 - rag_eda.ipynb
 - rag_df.xlsx
+- non_rag_comp_df.xlsx
 - README.md
